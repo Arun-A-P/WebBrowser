@@ -9,4 +9,4 @@ Implemented a light weight, minimal function web browser using java and javafx.
 4. Run the program using "java WebBrowser"
 5. You should receive the below browser
 
-![alt text][https://github.com/Arun-A-P/WebBrowser/blob/master/WebBrowser]
+![alt text](https://github.com/Arun-A-P/WebBrowser/blob/master/WebBrowser)
